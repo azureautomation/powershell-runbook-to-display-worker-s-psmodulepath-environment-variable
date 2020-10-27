@@ -1,7 +1,7 @@
 {
     "Author": "Tao Yang",
     "ContentSize": 154,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-runbook-to-display-worker's-psmodulepath-environment-variable/master/Get-PSModulePath.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-runbook-to-display-worker-s-psmodulepath-environment-variable/master/Get-PSModulePath.ps1",
     "DownloadCount": 758,
     "Id": "PowerShell-Runbook-to-33f49c17",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "DescriptionThis simple Azure Automation PowerShell runbook displays all the folders listed in the PSModulePath enviornment variable on the worker that executed the runbook. This can be helpful when using Azure Automation hybrid workers and require manually deploy custom PowerSh",
     "Title": "PowerShell Runbook to Display Worker's PSModulePath Environment Variable",
     "UpdatedDate": "2015-11-12T00:00:00",
-    "Url": "https://github.com/azureautomation/powershell-runbook-to-display-worker's-psmodulepath-environment-variable",
+    "Url": "https://github.com/azureautomation/powershell-runbook-to-display-worker-s-psmodulepath-environment-variable",
     "UserTags": "Utility, Runbook"
 }

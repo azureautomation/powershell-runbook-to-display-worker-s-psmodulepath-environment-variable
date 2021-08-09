@@ -4,7 +4,7 @@
             
 Description
 
-This simple Azure Automation PowerShell runbook displays all the folders listed in the PSModulePath enviornment variable on the worker that executed the runbook. This can be helpful when using Azure Automation hybrid workers and require manually deploy custom
+This simple Azure Automation PowerShell runbook displays all the folders listed in the PSModulePath environment variable on the worker that executed the runbook. This can be helpful when using Azure Automation hybrid workers and require manually deploy custom
  PowerShell modules or Integration Modules to hybrid workers. This runbook can help to identify a suitable destination for the manually deployed modules.
 
 Requirements
